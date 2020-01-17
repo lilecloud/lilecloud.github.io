@@ -100,4 +100,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:lilecloud/lilecloud.github.io.git
-  branch: gh-pages
+  branch: master
