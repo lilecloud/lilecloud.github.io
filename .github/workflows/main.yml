@@ -27,3 +27,5 @@ jobs:
 
       - name: hugo
         uses: klakegg/actions-hugo@1.0.0
+      - name: Commit
+        run: git commit -m "自动发布" && git push origin main
