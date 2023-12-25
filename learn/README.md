@@ -11,3 +11,9 @@ export PATH=/workspaces/istio-1.20.1/bin:$PATH
 
 
 
+
+# 进入minikube
+minikube ssh
+
+
+
