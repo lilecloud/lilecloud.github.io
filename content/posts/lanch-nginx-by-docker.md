@@ -1,7 +1,7 @@
 ---
-title: "Lanch Nginx by Docker"
+title: Lanch Nginx by Docker
 date: 2024-08-07T22:17:40+08:00
-draft: true
+draft: false
 ---
 ```shell
 
