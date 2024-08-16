@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/my-first-post.md",
+                "file": "content/posts/lanch-nginx-by-docker.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/my-first-post.md",
+                "file": "content/posts/lanch-nginx-by-docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/my-first-post.md",
+                "file": "content/posts/lanch-nginx-by-docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/my-first-post.md"
+                "file": "content/posts/lanch-nginx-by-docker.md"
               }
             }
           }
@@ -148,18 +148,18 @@
   },
   "active": "a10d77475030b049",
   "lastOpenFiles": [
-    "content/posts/lanch-nginx-by-docker.md",
     "content/posts/java面试题.md",
+    "content/posts/使用docker连接.md",
+    "content/posts/my-first-post.md",
+    "content/posts/lanch-nginx-by-docker.md",
     "content/posts/http-header-too-long导致response-status-400.md",
     "content/posts/how-to-backup-bitwarden.md",
-    "content/posts/使用docker连接.md",
     "content/posts/github-codespace.md",
     "learn/Resume.md",
     "learn/README.md",
     "content/posts/attachements/Pasted image 20240812093851.png",
     "content/posts/attachements/Pasted image 20240812093554.png",
     "content/posts/attachements",
-    "content/posts/my-first-post.md",
     "README.md"
   ]
 }
