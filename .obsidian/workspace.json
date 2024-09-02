@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/lanch-nginx-by-docker.md",
+                "file": "content/posts/中医.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/lanch-nginx-by-docker.md",
+                "file": "content/posts/中医.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/lanch-nginx-by-docker.md",
+                "file": "content/posts/中医.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/lanch-nginx-by-docker.md"
+                "file": "content/posts/中医.md"
               }
             }
           }
@@ -148,18 +148,33 @@
   },
   "active": "a10d77475030b049",
   "lastOpenFiles": [
-    "content/posts/java面试题.md",
+    "content/posts/attachements/Pasted image 20240828213046.png",
+    "content/posts/attachements/Pasted image 20240828212517.png",
+    "content/posts/attachements/Pasted image 20240828203259.png",
+    "content/posts/中医.md",
+    "themes/hugo-book",
+    "themes/ananke",
+    "themes",
+    "install.sh",
+    "content/posts/attachements/Pasted image 20240812093851.png",
+    "content/posts/attachements/Pasted image 20240812093554.png",
     "content/posts/使用docker连接.md",
     "content/posts/my-first-post.md",
     "content/posts/lanch-nginx-by-docker.md",
+    "content/posts/java面试题.md",
     "content/posts/http-header-too-long导致response-status-400.md",
     "content/posts/how-to-backup-bitwarden.md",
     "content/posts/github-codespace.md",
-    "learn/Resume.md",
-    "learn/README.md",
-    "content/posts/attachements/Pasted image 20240812093851.png",
-    "content/posts/attachements/Pasted image 20240812093554.png",
     "content/posts/attachements",
-    "README.md"
+    "content/posts",
+    "content",
+    "config.toml",
+    "archetypes/default.md",
+    "archetypes",
+    "README.md",
+    "tags/index.xml",
+    "images/gohugo-default-sample-hero-image.jpg",
+    "learn/Resume.md",
+    "learn/README.md"
   ]
 }
