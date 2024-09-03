@@ -2,4 +2,8 @@
 
 .obsidian/
 
+.DS_Store
+
+.DS_Store/
+
 **/**/.obsidian
