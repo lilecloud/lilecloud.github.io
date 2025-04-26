@@ -2,3 +2,6 @@ baseURL = 'https://lilecloud.github.io//'
 languageCode = 'en-us'
 title = 'Lilecloud Site'
 theme = 'ananke'
+[[module.mounts]]
+    source = "functions"
+    target = "functions"
