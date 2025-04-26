@@ -24,6 +24,9 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: copy
+        run: cp -r ./functions ./public/functions
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
